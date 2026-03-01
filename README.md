@@ -51,7 +51,7 @@ Untuk melihat daftar route:
 php spark routes
 ```
 > <img src="gambar/3.png" width="500"/>
-<img src="gambar/3(1).png" width="500"/>
+> <img src="gambar/3(1).png" width="500"/>
 
 ---
 
@@ -181,4 +181,4 @@ Contoh file `about.php`:
 File `contact.php` dan `artikel.php` menggunakan struktur yang sama.
 
 > <img src="gambar/6.png" width="500"/>
-<img src="gambar/7.png" width="500"/>
+> <img src="gambar/7.png" width="500"/>
