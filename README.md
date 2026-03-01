@@ -16,7 +16,7 @@
   - php-intl
 - Restart Apache melalui XAMPP Control Panel.
 
-> (Tambahkan screenshot konfigurasi php.ini di sini)
+> <img src="gambar/1.png" width="500"/>
 
 ---
 
@@ -35,7 +35,7 @@ ci4
 
 http://localhost/lab11_ci/ci4/public/
 
-> (Tambahkan screenshot halaman awal CodeIgniter)
+> <img src="gambar/2.png" width="500"/>
 
 ---
 
@@ -50,7 +50,8 @@ Untuk melihat daftar route:
 ```
 php spark routes
 ```
-> (Tambahkan screenshot CLI)
+> <img src="gambar/3.png" width="500"/>
+<img src="gambar/3(1).png" width="500"/>
 
 ---
 
@@ -63,7 +64,7 @@ CI_ENVIRONMENT = development
 ```
 Mode ini digunakan untuk menampilkan detail error saat debugging.
 
-> (Tambahkan screenshot mode development)
+> <img src="gambar/4.png" width="500"/>
 
 ---
 
@@ -162,7 +163,7 @@ Semua halaman menggunakan layout yang sama dengan:
 <?= $this->include('template/header'); ?>
 <?= $this->include('template/footer'); ?>
 ```
-> (Tambahkan screenshot layout lengkap)
+> <img src="gambar/5.png" width="500"/>
 
 ### View
 
@@ -179,4 +180,5 @@ Contoh file `about.php`:
 
 File `contact.php` dan `artikel.php` menggunakan struktur yang sama.
 
-> (Tambahkan screenshot hasil tampilan halaman)
+> <img src="gambar/6.png" width="500"/>
+<img src="gambar/7.png" width="500"/>
